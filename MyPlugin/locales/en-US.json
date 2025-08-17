@@ -1,8 +1,2 @@
 {
-  "apiEndpoint": "API Endpoint",
-  "token": "Token",
-  "tokenNote": "Own token",
-  "language": "Language",
-  "languageNote": "Request data by language. Headers, descriptions and so on.",
-  "helloWorld": "Hello World!"
 }
