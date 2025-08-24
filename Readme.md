@@ -1,6 +1,6 @@
-# Yskara Plugins Template
+# Yskra Plugins Template
 
-This is a template for creating a plugin for Yskara.
+This is a template for creating a plugin for Yskra.
 
 ## How to use
 
